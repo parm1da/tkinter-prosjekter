@@ -1,0 +1,72 @@
+{
+    "spm1": {
+        "tekst": "På søndager i Columbus, Ohio er det ulovlig å selge hva?",
+        "riktig": "Cornflakes",
+        "feil1": "Alkohol",
+        "feil2": "Bønnebøker",
+        "feil3": "Støvsugere"
+    },
+    "spm2": {
+        "tekst": "Hva er ulovlig å gjøre på et hotellrom i California?",
+        "riktig": "Å skrelle en løk",
+        "feil1": "Å be til gud",
+        "feil2": "Å høre på musikk etter 18.00",
+        "feil3": "Å danse"
+    },
+    "spm3": {
+        "tekst": "I 1992, hva ble 2421 amerikanske personer skadet i hjemmet av",
+        "riktig": "Husplanter",
+        "feil1": "Badekar",
+        "feil2": "Meloner",
+        "feil3": "Kjøleskap"
+    },
+    "spm4": {
+        "tekst" : "Hvis du har på deg en svømmedrakt offentlig i Florida, hva er det du ikke har lov til?",
+        "riktig": "Å synge",
+        "feil1": "Løpe",
+        "feil2": "Danse",
+        "feil3": "Selge blader"
+    },
+    "spm5": {
+        "tekst": "Hvem var det som fjernet brokkoli fra det hvite hus?",
+        "riktig": "George Bush",
+        "feil1": "Donald Trump",
+        "feil2": "Barack Obama",
+        "feil3": "Ronald Reagan"
+    },
+    "spm6": {
+        "tekst": "Hva er den ledende dødsårsaken i Papua New Guinea?",
+        "riktig": "Å falle fra trær",
+        "feil1": "Bilulykke",
+        "feil2": "Å sette mat i halsen",
+        "feil3": "Drap"
+    },
+    "spm7": {
+        "tekst": "Hva slags mat kan man lage diamanter av?",
+        "riktig": "Peanøttsmør",
+        "feil1": "Druer",
+        "feil2": "Epler",
+        "feil3": "Bananer"
+    },
+    "spm8": {
+        "tekst": "Hvorfor fikk den første regissøren av filmen haisommer sparken?",
+        "riktig": "Fordi han hele tiden kalte haien for en hval",
+        "feil1": "Fordi han stjal fra skuespillerne",
+        "feil2": "Fordi han gikk ut med nazistiske synspunkter i media",
+        "feil3": "Fordi han hadde løyet på CV-en."
+    },
+    "spm9": {
+        "tekst": "Hva er den vanligste setningen i Harry Potter-bøkene?",
+        "riktig": "«Ingenting skjedde»",
+        "feil1": "«Harry Potter kom ned trappa»",
+        "feil2": "«Ved Merlins skjegg»",
+        "feil3": "«Humlesnurr gikk sakte forbi»"
+    },
+    "spm10": {
+        "tekst": "Hvilket av disse dyrene er minst?",
+        "riktig": "Mus",
+        "feil1": "Tiger",
+        "feil2": "Katt",
+        "feil3": "Pytonslange"
+    }
+}
