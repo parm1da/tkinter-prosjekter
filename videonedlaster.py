@@ -1,6 +1,6 @@
+#uferdig
 from yt_dlp import YoutubeDL
 import tkinter as tk
-
 #legg til last ned som mp3
 
 root = tk.Tk()

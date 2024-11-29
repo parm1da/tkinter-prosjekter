@@ -2,7 +2,7 @@ import tkinter as tk
 
 poeng = 0
 def cookiefunksjon(verdi):
-    global poeng # oppdaterer poeng utenfor funksjonen så det ikke starter på 0 hver gang knappen trykkes
+    global poeng
     poeng += verdi
     poengtekst.configure(text = f"Klikk: {int(poeng)}")
     if poeng > 50 and poeng < 100:
@@ -29,11 +29,11 @@ def oppgrader():
         poeng = poeng - pris
         poengperklikk = poengperklikk*2
         pris = pris*1.2
-        upgrade.configure(text=f"Kjøp upgrade for {int(pris)} poeng!") # liker ikke hvordan det ser ut med komma
+        upgrade.configure(text=f"Kjøp upgrade for {int(pris)} poeng!")
         dinoppgradering.configure(text=f"Boost: {poengperklikk}x")
         if poeng < pris:
             upgrade.configure(state=tk.DISABLED)
-    poengtekst.configure(text = f"Poeng: {int(poeng)}") # hvorfor funker det ikke? får fortsatt komma her :,)
+    poengtekst.configure(text = f"Poeng: {int(poeng)}")
 root = tk.Tk()
 root.title("COOKIECLICKER")
 
